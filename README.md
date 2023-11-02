@@ -4,11 +4,13 @@ Creating a new Android project with Kotlin and SQLite DB Creating a SQLite datab
 and table Inserting data into the SQLite database Selecting data from the SQLite database
 Updating data in the SQLite database Deleting data from the SQLite database Creating a user interface for the Notes app.
 
-## Build and run
+## Getting Started
 
-- In the toolbar, select your app from the run configurations menu.
-- In the target device menu, select the device that you want to run your app on.
-- Click Run
+1. [Install Android Studio](https://developer.android.com/studio/install.html), if you don't already
+   have it.
+2. Download the app.
+3. Import the app into Android Studio.
+4. Build and run the app.
 
 ## Requirement
 
